@@ -13,5 +13,7 @@
 
 #...........................................
 from _testcapi import INT_MAX
-
-print(INT_MAX)
+# print(INT_MAX)
+#...........................................
+m = float("inf")
+print(99999999 > m)
